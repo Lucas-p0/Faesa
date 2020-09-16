@@ -1,0 +1,10 @@
+CORES:
+Amarelo
+EFD466
+F9EAAC
+
+Rosa
+FEB7C7
+
+Roxo
+270949
